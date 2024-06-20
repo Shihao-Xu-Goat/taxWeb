@@ -25,7 +25,7 @@
 1.克隆本项目到本地  
 
 ```
-git@github.com:lenve/VBlog.git
+git@github.com:Shihao-Xu-Goat/taxWeb.git
 ```  
 
 2.找到blogserver项目中resources目录下的vueblog.sql文件，在MySQL数据库中执行  
